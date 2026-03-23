@@ -1,1 +1,1 @@
-# Cloud_Comuting_Project
+# Cloud_Computing_Project
