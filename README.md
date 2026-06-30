@@ -309,34 +309,6 @@ Relevant KPIs for this project include:
 - The system is a course prototype, not a production agriculture platform.
 
 ---
-
-## ✅ GitHub Upload Checklist
-
-Before pushing to GitHub:
-
-- [ ] Use `Wombat_Prj_Final_Git_Safe.ipynb`.
-- [ ] Make sure no real API keys are inside the notebook.
-- [ ] Make sure no Firebase private key is inside the notebook.
-- [ ] Make sure no Hugging Face token is inside the notebook.
-- [ ] Clear all notebook outputs.
-- [ ] Keep only placeholder credentials.
-- [ ] Add this `README.md`.
-- [ ] Add project screenshots under `assets/screenshots/`.
-- [ ] Add a `.gitignore` if needed.
-
-Suggested `.gitignore`:
-
-```gitignore
-.env
-*.env
-secrets/
-credentials/
-firebase-key.json
-serviceAccountKey.json
-.ipynb_checkpoints/
-__pycache__/
-```
-
 ---
 
 ## 👥 Authors
